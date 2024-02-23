@@ -1,4 +1,13 @@
-### Hi there 👋
+
+Hello,
+
+I'm Laxmi Gurung, currently studying Software Development at Trios College. 
+I just love technology! It's like this amazing puzzle that I'm always excited to solve. 
+I'm constantly learning new things to get better at it. 
+
+Here on GitHub, you'll find the projeccts I've been working on. From school assigments to 
+personal experiments, each one is a step forward in my learning journey. 
+
 
 <!--
 **Laxgrg/Laxgrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
